@@ -42,7 +42,7 @@ for url in links:
 - 👯 I’m looking to collaborate on new to this wouldn't be much help at the moment 
 - 🤔 I’m looking for help with coding in general
 - 💬 Ask me about anything
-- 📫 How to reach me:here in GitHub sent me a message 
-- 😄 Pronouns:She/her
+- 📫 How to reach me: here in GitHub send me a message 
+- 😄 Pronouns: She/her
 - ⚡ Fun fact: I have 3 cats and a bearded dragon
 -->
